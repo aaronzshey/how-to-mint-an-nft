@@ -7,6 +7,11 @@ skill: beginner
 lang: en
 published: 2024-04-22
 ---
+# How to Write & Deploy an NFT (Part 1/3 of NFT Tutorial Series)
+### by Sumi Mudgil, revised by Aaron Shey
+### adapted from [the original](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/)
+
+
 Want to sound smart at parties?  Keep hearing about NFTs but have no idea what they are?  Get your hands dirty and mint your own NFT!  
 
 In this tutorial, we will walk through creating and deploying an ERC-721 smart contract on the Sepolia test network using [MetaMask](https://metamask.io/), [Solidity](https://soliditylang.org), [Hardhat](https://hardhat.org/), [Pinata](https://pinata.cloud/) and [Alchemy](https://alchemy.com/signup/eth) (don’t fret if you don’t understand what any of this means yet — we will explain it!).
